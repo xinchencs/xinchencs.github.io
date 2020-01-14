@@ -1,19 +1,16 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline:
 excerpt: >
-  A few more words about this theme. This goes SEO!
+
 permalink: /about.html
 header:
-  image: /assets/patterns/upfeathers.png
+  image: /assets/img/home-header.jpg
 ref: about
 lang: en  
 order: 2
 ---
-
-This is the _Simple Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [jekyll-theme-simple-blog](https://github.com/lorepirri/jekyll-theme-simple-blog)
-
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+I'm currently a master student at Peking University and working as an intern at Microsoft Research Asia since 2019-06. 
 
 {% include go-to-home-page.html %}
