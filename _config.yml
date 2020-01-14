@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Xin's Home Page
+title: Xin Chen's Home Page
 email: xinchencs@yeah.net
 description: > # this means to ignore newlines until "baseurl:"
 
@@ -31,7 +31,7 @@ jekyll-theme-simple-blog:
 
 theme: # leave it empty
 
-header_page_refs: ['coding','projects','about']
+header_page_refs: ['coding','about']
 
 plugins:
   - jekyll-target-blank
@@ -45,14 +45,6 @@ header:
   image: /assets/patterns/symphony.png
 
 # social
-author:
-  name: "Simple Blog Theme"
-  short_bio:
-    en: Jekyll Blog Theme, Responsive
-    it: Jekyll Blog Theme, Responsive
-  picture: assets/img/profile-60.png
-
-image: /assets/img/profile-225.png
 
 #twitter:
 #  username:
@@ -61,12 +53,10 @@ image: /assets/img/profile-225.png
 #linkedin_username: hereyourlinkedin-id-only
 
 # gitlab on site
-gitlab:
-  owner_url: https://gitlab.com/lorepirri
 
 # github on site
 github:
-  owner_url: https://github.com/lorepirri
+  owner_url: https://github.com/AzureHJ
 
 
 # translation
